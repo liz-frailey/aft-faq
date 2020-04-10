@@ -1,7 +1,6 @@
 {
   "$id": "cOVIDAnswersExperience",
   "$schema": "https://schema.yext.com/config/pages/site-config/v1",
-  "HostName": "${{cOVIDAnswersExperience_hostName}}",
   "PinnedProductionBranchName": "refs/heads/master",
   "PinnedStagingBranchName": "refs/heads/build",
   "SiteName": "COVID Answers Experience",
