@@ -48,5 +48,22 @@
       "url": "https://twm82am3y0.execute-api.us-east-1.amazonaws.com/prod"
     }
   },
+  "autocomplete": {
+    "disablePopularQueries": false,
+    "hardcodedPrompts": [
+      "How does coronavirus spread?"
+    ]
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "covid",
+        "coronavirus",
+        "corona",
+        "virus"
+      ]
+    ]
+  },
   "localizations": {}
 }

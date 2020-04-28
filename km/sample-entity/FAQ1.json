@@ -4,6 +4,10 @@
   "entityType": "faq",
   "content": {
     "c_activeOnAnswers": true,
+    "c_primaryCTA": {
+      "label": "Visit Page",
+      "url": "https://www.yext.com"
+    },
     "yext.answer": "Yext is a software company headquartered in New York, NY.",
     "yext.name": "Yext FAQ"
   }
