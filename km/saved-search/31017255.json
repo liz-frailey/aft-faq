@@ -12,7 +12,7 @@
     "entityType": [
       {
         "entityTypeId": [
-          "faq"
+          "yext/faq"
         ],
         "type": "IS"
       }
